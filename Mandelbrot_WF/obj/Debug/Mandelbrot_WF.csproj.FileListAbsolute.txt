@@ -1,0 +1,32 @@
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\bin\Debug\HelloWorldLib.dll
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.exe.config
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.exe
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.pdb
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.Form1.resources
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.Properties.Resources.resources
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.csproj.GenerateResource.Cache
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.exe
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.pdb
+C:\dev\Mandelbrot_WF\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.csprojResolveAssemblyReference.cache
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\bin\Debug\HelloWorldLib.dll
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.exe.config
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.exe
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.pdb
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.Form1.resources
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.Properties.Resources.resources
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.csproj.GenerateResource.Cache
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.exe
+C:\dev\Mandelbrot_WF July 15 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.pdb
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\bin\Debug\HelloWorldLib.dll
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.exe.config
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.exe
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.pdb
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.Form1.resources
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.Properties.Resources.resources
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.csproj.GenerateResource.Cache
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.exe
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.pdb
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.exe.manifest
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\bin\Debug\Mandelbrot_WF.application
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.exe.manifest
+C:\dev\Mandelbrot_WF July 17 2014\Mandelbrot_WF\obj\Debug\Mandelbrot_WF.application

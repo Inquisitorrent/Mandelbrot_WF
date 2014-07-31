@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  HelloWorldLib.cpp
+     Creating library C:\dev\Mandelbrot_WF July 17 2014\Debug\HelloWorldLib.lib and object C:\dev\Mandelbrot_WF July 17 2014\Debug\HelloWorldLib.exp
+  HelloWorldLib.vcxproj -> C:\dev\Mandelbrot_WF July 17 2014\Debug\HelloWorldLib.dll
